@@ -11,7 +11,7 @@
   <a href="https://github.com/Jormaedes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jormaedes&theme=github_dark&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=github_dark&hide_progress=donut-vertical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jormaedes&repo=juniortrainersheet" />
+  <a href="https://github.com/jormaedes/juniortrainersheet"> <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jormaedes&repo=juniortrainersheet&theme=github_dark" /></a>
 </div>
 
 <div style="display: inline_block"><br> 
