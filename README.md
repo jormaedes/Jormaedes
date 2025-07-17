@@ -1,6 +1,5 @@
 ## Hello! I'm Jormaedes Luís 👋
 
-
 - 🎓 Student at 42 School – initial phase of the curriculum
 - 🚀 Exploring the world of low-level programming (C language)
 - 🛠️ Learning Git and GitHub for versioning and collaboration
@@ -10,7 +9,9 @@
 <div align="center">
   <a href="https://github.com/Jormaedes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jormaedes&theme=github_dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=github_dark&hide_progress=donut-vertical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=github_dark&hide_progress=donut-vertical"/><a/>
+    <br>
+    <br>
   <a href="https://github.com/jormaedes/juniortrainersheet"> <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=jormaedes&repo=juniortrainersheet&theme=github_dark" /></a>
 </div>
 
