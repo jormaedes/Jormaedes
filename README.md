@@ -15,7 +15,7 @@
   <br>
 <div>
   <a href="https://github.com/Jormaedes">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=dark&hide_progress=donut-vertical&hide_border=true"/><a/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=dark&hide_progress=donut-vertical&hide_border=true&layout=compact"/><a/>
 </div>
 <div style="display: inline_block">
   <img align="left" alt="Jormaedes-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
