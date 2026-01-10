@@ -28,12 +28,12 @@ I'm a passionate software development student focused on building strong fundame
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jormaedes&show_icons=true&theme=dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jormaedes&theme=dark&hide_border=true"/>
+<p align="left">
+  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=jormaedes&count_private=true&show_icons=true&theme=dark"/>
+  <img width="50%" src="https://github-readme-streak-stats-mauve.vercel.app/?user=jormaedes&theme=dark"/>
 </p>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&theme=dark&layout=compact&hide_border=true"/>
+<p align="left">
+  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=jormaedes&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&theme=dark"/>
 </p>
 
