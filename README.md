@@ -17,6 +17,7 @@ I'm a passionate software development student focused on building strong fundame
 ## 🧰 Tech Stack & Skills
 
 <p align="left">
+  <img alt="C" width="40" src="https://icon.icepanel.io/Technology/svg/C.svg">
   <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
