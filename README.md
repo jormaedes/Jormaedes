@@ -6,7 +6,7 @@
 
 I write code that runs close to the metal and interfaces that run in the browser — because understanding both ends of the stack is what separates engineers from framework users.
 
-Currently sharpening my craft through two rigorous paths: **42 School** (peer-to-peer, project-based, no teachers) and **The Odin Project** (full-stack curriculum, project-driven). I don't just consume content — I build, break, debug, and rebuild.
+Currently sharpening my craft through two rigorous paths: **42 School** (peer-to-peer, project-based, no teachers) and **[The Odin Project](https://www.theodinproject.com/dashboard)** (full-stack curriculum, project-driven). I don't just consume content — I build, break, debug, and rebuild.
 
 ---
 
