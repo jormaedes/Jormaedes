@@ -20,7 +20,7 @@ Currently sharpening my craft through two rigorous paths: **42 School** (peer-to
 
 - 🛠️ **Git as infrastructure, not an afterthought** — Every project follows Conventional Commits, branched workflows, and meaningful commit history. Version control is part of the craft.
 
-- 🌍 **Building from Luanda, Angola**
+- 🌍 **Building from Luanda, Angola** — Remote-first mindset, async-capable, and deeply aware that good software is a global discipline.
 
 ---
 
