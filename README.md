@@ -42,11 +42,11 @@ Currently sharpening my craft through two rigorous paths: **42 School** (peer-to
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=jormaedes&count_private=true&show_icons=true&theme=dark"/>
-  <img width="50%" src="https://github-readme-streak-stats-mauve.vercel.app/?user=jormaedes&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=jormaedes&count_private=true&show_icons=true&theme=dark"/>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=jormaedes&theme=dark"/>
 </p>
-<p align="left">
-  <img width="47%" src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=jormaedes&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&theme=dark"/>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jormaedes&count_private=true&show_icons=true&hide_border=false&layout=compact&langs_count=16&theme=dark"/>
 </p>
 
 ---
