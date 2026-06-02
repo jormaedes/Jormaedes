@@ -1,40 +1,44 @@
 # Jormaedes Luís
 
-> *Low-level roots. Full-stack ambitions. Engineering mindset.*
+<p align="left">
+  <a href="https://linkedin.com/in/jormaedes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jormahed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+> **"Low-level roots. Full-stack ambitions. Engineering mindset."**
+> I write code that runs close to the metal and interfaces that run in the browser — because understanding both ends of the stack is what separates engineers from framework users.
+
+Currently sharpening my craft through two rigorous paths: 
+* 🏫 **42 Luanda** (Peer-to-peer, project-based, no teachers)
+* 🧭 **The Odin Project** (Full-stack curriculum, project-driven)
 
 ---
 
-I write code that runs close to the metal and interfaces that run in the browser — because understanding both ends of the stack is what separates engineers from framework users.
+## 🔬 What I'm Building Myself Into
 
-Currently sharpening my craft through two rigorous paths: **42 School** (peer-to-peer, project-based, no teachers) and **[The Odin Project](https://www.theodinproject.com/dashboard)** (full-stack curriculum, project-driven). I don't just consume content — I build, break, debug, and rebuild.
-
----
-
-## What I'm building myself into
-
-- ⚙️ **Systems thinker** — 42 School trains you by throwing you in the deep end: no lectures, no hand-holding, just a problem specification and a compiler. I've built projects in C/C++ covering memory management, data structures, process handling, and object-oriented design from scratch.
-
-- 🌐 **Full-stack developer in progress** — Working through The Odin Project's curriculum with a focus on real projects over tutorials. Currently building data structure implementations (HashMaps, Linked Lists) in vanilla JavaScript with clean architecture and conventional commits.
-
-- 🔬 **Low-level first** — I started with C intentionally. When you understand pointers, stack vs. heap, and manual memory management, everything built on top becomes legible. That foundation shapes how I reason about software at every level.
-
-- 🛠️ **Git as infrastructure, not an afterthought** — Every project follows Conventional Commits, branched workflows, and meaningful commit history. Version control is part of the craft.
-
-- 🌍 **Building from Luanda, Angola** — Remote-first mindset, async-capable, and deeply aware that good software is a global discipline.
+*   **⚙️ Systems Thinker**
+    42 School trains you by throwing you in the deep end: no lectures, no hand-holding. I build projects in **C/C++** covering manual memory management, data structures, process handling, and object-oriented design from scratch.
+*   **🌐 Full-Stack Developer**
+    Working through The Odin Project's curriculum with a focus on real production-ready applications. Currently building data structure implementations (HashMaps, Linked Lists) in vanilla **JavaScript** with clean architecture.
+*   **🔌 Low-Level First Foundation**
+    I started with C intentionally. When you understand pointers, stack vs. heap, and memory management, everything built on top becomes legible. That foundation shapes how I reason about software at every level.
+*   **🛠️ Git as Infrastructure**
+    Every project follows **Conventional Commits**, branched workflows, and meaningful history. Version control is part of the craft, not an afterthought.
+*   **🌍 Luanda to the World**
+    Remote-first mindset, async-capable, and deeply aware that good software is a global discipline.
 
 ---
 
 ## 🧰 Tech Stack
 
+### 💻 Languages & Systems
 <p align="left">
-  <img alt="C" width="40" src="https://icon.icepanel.io/Technology/svg/C.svg"/>
-  <img alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux" alt="Low Level & Systems" />
+</p>
+
+### 🌐 Web Development & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" alt="Web Dev & Tools" />
 </p>
 
 ---
