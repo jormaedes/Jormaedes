@@ -55,4 +55,5 @@ Currently sharpening my craft through two rigorous paths:
 
 ---
 
-*Open to junior roles, internships, and remote opportunities — especially where clean code and strong fundamentals matter more than years of experience.*
+### 🤝 Let's Connect
+*Open to junior roles, internships, and remote opportunities worldwide — especially where clean code and strong fundamentals matter.*
