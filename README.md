@@ -38,7 +38,7 @@ Currently sharpening my craft through two rigorous paths:
 
 ### 🌐 Web Development & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,git,github" alt="Web Dev & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,git,github" alt="Web Dev & Tools" />
 </p>
 
 ---
