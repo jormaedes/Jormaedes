@@ -5,27 +5,17 @@
   <a href="mailto:jormahed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-> **"Low-level roots. Full-stack ambitions. Engineering mindset."**
-> I write code that runs close to the metal and interfaces that run in the browser — because understanding both ends of the stack is what separates engineers from framework users.
-
-Currently sharpening my craft through two rigorous paths: 
-* 🏫 **42 Luanda** (Peer-to-peer, project-based, no teachers)
-* 🧭 **The Odin Project** (Full-stack curriculum, project-driven)
-
 ---
 
-## 🔬 What I'm Building Myself Into
+Hi! 👋 I’m Jormaedes Luís, a software engineer focused on mastering the fundamentals to build better tools. I enjoy combining the performance of complex systems with front-end usability.
 
-*   **⚙️ Systems Thinker**
-    42 School trains you by throwing you in the deep end: no lectures, no hand-holding. I build projects in **C/C++** covering manual memory management, data structures, process handling, and object-oriented design from scratch.
-*   **🌐 Full-Stack Developer**
-    Working through The Odin Project's curriculum with a focus on real production-ready applications. Currently building data structure implementations (HashMaps, Linked Lists) in vanilla **JavaScript** with clean architecture.
-*   **🔌 Low-Level First Foundation**
-    I started with C intentionally. When you understand pointers, stack vs. heap, and memory management, everything built on top becomes legible. That foundation shapes how I reason about software at every level.
-*   **🛠️ Git as Infrastructure**
-    Every project follows **Conventional Commits**, branched workflows, and meaningful history. Version control is part of the craft, not an afterthought.
-*   **🌍 Luanda to the World**
-    Remote-first mindset, async-capable, and deeply aware that good software is a global discipline.
+## 🛠️ My technical background:
+
+- **Low-Level & Systems (42 Luanda):** C/C++, memory management, processes, signals, and the Linux environment.
+- **Modern Web Development (The Odin Project):** JavaScript, React, Node, Express, HTML & CSS.
+- **Problem Solving:** Strong interest in algorithms, competitive programming, and the development of logic engines and applications.
+
+💡 My philosophy: I believe that understanding the engineering behind the tools (from the hardware to the browser) is essential before moving on to practical implementation.
 
 ---
 
@@ -38,7 +28,7 @@ Currently sharpening my craft through two rigorous paths:
 
 ### 🌐 Web Development & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,git,github" alt="Web Dev & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,postgresql,git,github" alt="Web Dev & Tools" />
 </p>
 
 ---
