@@ -12,7 +12,7 @@ Hi! 👋 I’m Jormaedes Luís, a software engineer focused on mastering the fun
 ## 🛠️ My technical background:
 
 - **Low-Level & Systems (42 Luanda):** C/C++, memory management, processes, signals, and the Linux environment.
-- **Modern Web Development (The Odin Project):** JavaScript, React, Node, Express, HTML & CSS.
+- **Modern Web Development ([The Odin Project](https://www.theodinproject.com)):** JavaScript, React, Node, Express, HTML & CSS.
 - **Problem Solving:** Strong interest in algorithms, competitive programming, and the development of logic engines and applications.
 
 💡 My philosophy: I believe that understanding the engineering behind the tools (from the hardware to the browser) is essential before moving on to practical implementation.
