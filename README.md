@@ -28,7 +28,7 @@ Hi! 👋 I’m Jormaedes Luís, a software engineer focused on mastering the fun
 
 ### 🌐 Web Development & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,postgresql,git,github" alt="Web Dev & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,postgresql,prisma,git,github" alt="Web Dev & Tools" />
 </p>
 
 ---
